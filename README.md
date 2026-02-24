@@ -1,5 +1,6 @@
 # hyper-curve-regression-yarn
-Python code that applies the PARCUR method to the Yarn data
+Python code that applies the PARCUR method to the Yarn data.
+
 This code generates the figures for the paper, "Overparameterized Multiple Linear Regression as Hyper-Curve Fitting" by E. Atza and N. Budko
 
 ### Core Functions:
